@@ -1,4 +1,0 @@
-TheCurrencyConverter.py
-=======================
-
-USDBPJPY
